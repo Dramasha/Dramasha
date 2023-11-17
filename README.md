@@ -23,7 +23,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dramasha&repo=graduation_project)](https://github.com/Dramasha/graduation_project)
 
-### 💥 Проект автоматизации API методов для сайта [Reqres]([https://www.reqres.in/](https://reqres.in/))
+### 💥 Проект автоматизации API методов для сайта [Reqres](https://www.reqres.in/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dramasha&repo=Rest-API-RestAssured)](https://github.com/Dramasha/Rest-API-RestAssured.git)
 
