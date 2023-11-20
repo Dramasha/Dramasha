@@ -1,7 +1,7 @@
 <h1 align="center"> Hello World, I'm Sergey™️ </h1>
 <h3 align="center"> QA Automation Engineer </h3>
 
-<h2 align="center">  What I use💻</h2>
+<h2 align="center">  Что я использую💻</h2>
 <p align="center">
 <a href="https://www.java.com/"><img src="images/logo/Java.svg" width="50" height="50"/></a>
 <a href="https://www.jetbrains.com/idea/"><img src="images/logo/Intelij_IDEA.svg" width="50" height="50"/></a>
