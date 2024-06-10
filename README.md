@@ -1,5 +1,5 @@
 <h1 align="center"> Hello World, I'm Sergey™️ </h1>
-<h3 align="center"> QA Automation Engineer </h3>
+<h3 align="center"> QA Automation/Fullstack Engineer </h3>
 
 <h2 align="center">  What I Use💻</h2>
 <p align="center">
